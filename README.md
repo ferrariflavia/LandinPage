@@ -1,2 +1,2 @@
 # LandinPage
- LandinPage completa
+ LandinPage feita em HTML e CSS.
